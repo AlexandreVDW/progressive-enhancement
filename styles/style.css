@@ -6,7 +6,6 @@ p {
     font-family:Serif ;
     line-height:25px;
     color:darkslategray;
-    font-size:160%;
     background-color: #f5f5f5;
     border-left: 3px solid #b08d57;
     padding:30px;
@@ -15,6 +14,7 @@ p {
 }
 q{
     font-style:italic;
+    font-size:160%;
 }
 .good {
     text-transform:capitalize;
