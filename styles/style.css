@@ -1,0 +1,58 @@
+header:nth-child(1){
+    background-color:yellow;
+}
+
+p {
+    font-family:Serif ;
+    line-height:25px;
+    color:darkslategray;
+    font-size:160%;
+    background-color: #f5f5f5;
+    border-left: 3px solid #b08d57;
+    padding:30px;
+    padding-top:80px;
+    padding-bottom:80px;
+}
+q{
+    font-style:italic;
+}
+.good {
+    text-transform:capitalize;
+    color:green;
+}
+.bad {
+    text-transform:capitalize;
+    color:red;
+}
+a {
+    color:darkblue;
+}
+a:hover{
+    color:darkgreen;
+}
+a:visited{
+    color:purple;
+}
+strong {
+    font-style:normal;
+    font-weight:normal;
+}
+body{
+    width:90%;
+    margin:auto;
+    max-width: 50%;
+    background: linear-gradient(90deg, rgb(237, 22, 228), rgb(1, 255, 142));
+    /* background-image:url('/media/China_Flag.png');
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-size:cover; */
+}
+tr:nth-child(odd){
+    background-color:grey;
+}
+.first_p{
+    font-weight:bold;
+    }
+.photo_principal{
+    float: right;
+}
