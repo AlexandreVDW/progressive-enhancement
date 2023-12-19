@@ -10,8 +10,8 @@ en distanciel de chez moi
 ## A quoi ça ressemble ? 
 a un site un peu moche :D
 ## La progression… C’est fini ? 
-pas tout a fait je dois repasser dessus
+pas tout a fait je dois repasser dessus mais il respecte les consignes données.
 ## Qu’est-ce que ça contient ? 
 du html et du css ainsi que quelques médias
-## D’où ça vient ? 
-d’un exercice à faire en classe… 
+## Deploiement :
+[progressive-enhancement](https://alexandrevdw.github.io/progressive-enhancement/)
